@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harpertoken/homebrew-tap/main/.github/assets/thumbnail.png" alt="homebrew-tap" width="100%">
+</p>
+
 # homebrew-tap
 
 Install Harpertoken tools on Mac with Homebrew in Ruby.
