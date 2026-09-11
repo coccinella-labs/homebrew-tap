@@ -23,5 +23,5 @@ gh api repos/coccinella-labs/harper/compare/harper-${old_version}...harper-${new
 Mention that Homebrew-managed installs should upgrade with:
 
 ```bash
-brew upgrade harpertoken/tap/harper-ai
+brew upgrade coccinella-labs/tap/harper-ai
 ```
