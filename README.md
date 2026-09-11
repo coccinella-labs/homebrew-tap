@@ -14,7 +14,7 @@ Install Harpertoken tools on Mac with Homebrew in Ruby.
 ## Start
 
 ```bash
-brew tap harpertoken/homebrew-tap
+brew tap coccinella-labs/homebrew-tap
 brew install harper-ai
 harper --help
 ```

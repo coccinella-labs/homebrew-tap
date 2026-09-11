@@ -17,7 +17,7 @@ When a PR updates `Formula/harper-ai.rb` for a new Harper release:
 For the version range, use the removed and added formula versions:
 
 ```bash
-gh api repos/harpertoken/harper/compare/harper-${old_version}...harper-${new_version}
+gh api repos/coccinella-labs/harper/compare/harper-${old_version}...harper-${new_version}
 ```
 
 Mention that Homebrew-managed installs should upgrade with:
