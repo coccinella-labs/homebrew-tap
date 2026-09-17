@@ -4,7 +4,7 @@
 
 # homebrew-tap
 
-Install Harpertoken tools on Mac with Homebrew in Ruby.
+Install Coccinella Labs tools on Mac with Homebrew in Ruby.
 
 ## Formula
 
